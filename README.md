@@ -44,10 +44,62 @@
 
 **Model Code File:**
 
-Accuracy of Random Forest : 99.3% (Ensemble)
+**Accuracy:**
+
+Random Forest : 99.3%
+
+Random Forest with Cross-Validation : 99.5% average score
+
+Fold-1 accuracy - 99.8%
+
+Fold-2 accuracy - 99.3%
+
+Fold-3 accuracy - 99.8%
+
+Fold-4 accuracy - 99.8%
+
+Fold-5 accuracy - 98.9%
+
+Affinity Propagation, Random  Forest, Naive Bayes, Voting Classifier : 99.5%
+
+**Affinity Propagation, Naive Bayes, Voting Classifier : 99.5%**
+
+Random Forest : 99.3% (Ensemble)
+
 Random Forest with HyperParameter Tuning : 79.8%
+
 Random Forest, AdaBoost : 80.2%
+
 Random Forest, Bagging Classifier : 80.2%
+
 Affinity Propagation, Random Forest : 99.3%
+
 Affinity Propagation, Bagging Classifier : 99.1%
-Bagging Classifier
+
+Affinity Propagation, Grid Search with Random Forest : 99.3%
+
+Affinity Propagation, Random Search with Random Forest : 52.3%
+
+**Affinity Propagation, Naive Bayes, Voting Classifier : 99.5% (ANVoC model) on 4 dataset**
+
+Accuracy of Crop_recommendation dataset: Crop_recommendation dataset: 0.9954545454545455
+
+Indian Crop Dataset Test Accuracy: 0.9954545454545455
+
+Test Accuracy (Crop Recommendation with Water Dataset): 1.0
+
+Test Accuracy (Crop Recommendation with Crop_and_fertilizer Dataset): 0.7995570321151716. 
+
+**Cross-validation of ANVoC model:**
+
+Fold 1 - Cross-validation Score: 0.9977272727272727
+
+Fold 2 - Cross-validation Score: 0.9954545454545455
+
+Fold 3 - Cross-validation Score: 0.9954545454545455
+
+Fold 4 - Cross-validation Score: 0.9954545454545455
+
+Fold 5 - Cross-validation Score: 0.990909090909091
+
+Mean Cross-validation Score: 0.9950000000000001
