@@ -42,3 +42,12 @@
 
 ![image](https://github.com/TITHI-KHAN/Crop-Recommendation-using-Ensemble-based-ML-Technique-Clustering-Algo-Classification-Algo-/assets/65033964/fffc3ae8-00da-41b7-aed7-f4cb52d972ab)
 
+**Model Code File:**
+
+Accuracy of Random Forest : 99.3% (Ensemble)
+Random Forest with HyperParameter Tuning : 79.8%
+Random Forest, AdaBoost : 80.2%
+Random Forest, Bagging Classifier : 80.2%
+Affinity Propagation, Random Forest : 99.3%
+Affinity Propagation, Bagging Classifier : 99.1%
+Bagging Classifier
